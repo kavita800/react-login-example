@@ -90,7 +90,6 @@ let sport_type = socket.handshake.query['sport_type'];
 		 method: 'get',
 		//  url: 'http://172.105.37.187:4000/json/1.'+match_id+'.json',
 		 url: 'http://172.105.37.187:4000/json/1.30025164.json',
-
 		 headers: { 
 		   'key': 'D73TQ7O0X6gZxXLBidih2pCUDzuakv67UEQs17AcqzJran8Gc9', 
 		   'Content-Type': 'application/json', 
